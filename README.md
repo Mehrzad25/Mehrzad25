@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mehrzadghasemi.ir"><img src="https://img.shields.io/badge/Website-mehrzadghasemi.ir-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/mehrzad_dev"><img src="https://img.shields.io/badge/Telegram-@MehrzadPHP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/mehrzad_dev"><img src="https://img.shields.io/badge/Telegram-@mehrzad_dev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
