@@ -51,4 +51,4 @@
 ### 🤝 Connect with Me
 - 🌐 Website: [mehrzadghasemi.ir](https://mehrzadghasemi.ir)
 - 💬 Telegram: [@MehrzadPHP](https://t.me/MehrzadPHP)
-- 💼 LinkedIn: [پروفایل لینکدین خودت رو اینجا لینک کن](https://linkedin.com/in/YOUR_USERNAME)
+- 💼 LinkedIn: [پروفایل لینکدین خودت رو اینجا لینک کن](https://linkedin.com/in/mehrzad-ghasemi-416523377/)
